@@ -3,6 +3,10 @@ html {
   text-align: center;
 }
 
+p {
+  font-size: 14px;
+}
+
 h1
 h2
 h3 {
@@ -14,7 +18,11 @@ h1 {
 }
 
 h2 {
-  font-size:32px;
+  font-size: 32px;
+}
+
+.sub-header h3 {
+  font-size: 23px;
 }
 
 .header {
@@ -22,12 +30,8 @@ h2 {
   color: white;
 }
 
-.header h2 {
+.header h3 {
   font-size: 23px;
-}
-
-.sub-header {
-  font-size 23px;
 }
 
 .nav {
